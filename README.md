@@ -17,8 +17,5 @@ Dieser AutoClicker automatisiert den Export von Messdaten aus der NETZSCH Proteu
 - Screenshots mit den Icons sollten ggf. ersetzt werden, da unterschiedliche Auflösungen und Versionen der Proteus-Software zu Abweichungen führen können.
 - Keine Fehlerkorrektur für unvorhergesehene Fensteränderungen oder Verzögerungen.
 
-## Autor
-- [**Konrad Adamski**](https://github.com/konrad-adamski)
-
 
 
