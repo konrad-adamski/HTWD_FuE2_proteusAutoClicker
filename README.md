@@ -1,4 +1,4 @@
-# AutoClicker für Proteus-DSC
+# AutoClicker für DSC Proteus Analysis
 
 ## Überblick
 Dieser AutoClicker automatisiert den Export von Messdaten aus der NETZSCH Proteus-Software. Da die Software keine API bietet, steuert der AutoClicker Maus- und Tastatureingaben zur Extraktion der Daten.
