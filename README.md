@@ -18,6 +18,7 @@ Dieser AutoClicker automatisiert den Export von Messdaten aus der NETZSCH Proteu
 - Keine Fehlerkorrektur für unvorhergesehene Fensteränderungen oder Verzögerungen.
 
 ## Autor
-- [**Konrad Adamski**](https://github.com/konrad-adamski) ([GitHub](https://github.com/konrad-adamski))
+- [**Konrad Adamski**](https://github.com/konrad-adamski)
+
 
 
